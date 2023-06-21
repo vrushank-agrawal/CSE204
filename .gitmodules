@@ -1,0 +1,3 @@
+[submodule "clash-royale-ml"]
+	path = clash-royale-ml
+	url = https://github.com/nhat-vo/clash-royale-ml
